@@ -1,0 +1,57 @@
+html {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.note {
+    color: red;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+img {
+    float: left;
+    left: 70px;
+  }
+  body {
+    font-family: 'Heebo', sans-serif;
+    font-size: 19px;
+}
+h1 {
+    font-size: 13px;
+    text-align: center;
+      }
+h2 {
+    font-size: 20px;
+    text-align: center;
+      }
+h3 {
+    font-size: 13px;
+    text-align: center;
+      }
+h4 {
+    letter-spacing: 15px;
+}
+p {
+    color: red;
+    text-align: left;
+}
+table {
+    border-spacing: 1px;
+}
+th {
+    text-align: center;
+    background-color: rgb(157, 165, 238);
+    word-spacing: 2px;
+}
+
+td {
+    text-align: left;
+    word-spacing: 7px;
+}
+
+
